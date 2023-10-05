@@ -1,0 +1,19 @@
+{
+  "name": "devops-01-git-wk-01",
+  "version": "1.0.0",
+  "description": "Placeholder project using material ui as styling library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robin-salle-vinci/devops-01-git-wk-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin-salle-vinci/devops-01-git-wk-01/issues"
+  },
+  "homepage": "https://github.com/robin-salle-vinci/devops-01-git-wk-01#readme"
+}
