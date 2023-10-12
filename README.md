@@ -12,7 +12,7 @@ Placeholder project using material ui as styling library.
 
 ### Installing
 
-Install dependencies
+Install dependencie
 
 ```
 npm i
